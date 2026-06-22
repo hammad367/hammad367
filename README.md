@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | LLMs • RAG • Agentic AI • NLP • Machine Learning**
 
-I'm a Computer Science student at FAST NUCES (Class of 2026) passionate about building real-world AI applications powered by Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
+I'm a Computer Science graduate from FAST NUCES passionate about building real-world AI applications powered by Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
 
 I enjoy developing end-to-end AI systems—from data processing and model development to deployment and user-facing applications.
 
